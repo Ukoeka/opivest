@@ -898,7 +898,7 @@ header.main-header .header-sticky.active{
 }
 
 .about-images .about-image{
-	width: 48.8%;
+	width: 100%;
 }
 
 .about-images .about-image figure{
@@ -2341,7 +2341,7 @@ header.main-header .header-sticky.active{
 	transition: all 0.3s ease-out;
 }
 
-.sidebar-box ul li::before{
+/* .sidebar-box ul li::before{
 	content: '\f0da';
 	position: absolute;
 	top: 50%;
@@ -2352,7 +2352,7 @@ header.main-header .header-sticky.active{
 	font-size: 16px;
 	font-weight: 900;
 	transform: translateY(-50%);
-}
+} */
 
 .sidebar-box ul li:last-child{
 	border-bottom: none;
